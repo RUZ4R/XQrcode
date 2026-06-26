@@ -1,0 +1,11 @@
+[project]
+name = "qrcode-program"
+version = "1.2.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "customtkinter>=6.0.0",
+    "pillow>=12.2.0",
+    "qrcode>=8.2",
+]
