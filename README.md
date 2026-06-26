@@ -145,8 +145,7 @@ A aplicação será aberta em poucos segundos.
 # 📌 Observações
 
 - Mantenha todos os arquivos do projeto na mesma pasta.
-- Utilize imagens em boa qualidade para obter melhores resultados ao inserir um logotipo.
-- Quanto menor o logotipo, maior será a legibilidade do QR Code.
+- Utilize imagens .png em boa qualidade para obter melhores resultados ao inserir um logotipo.
 
 ---
 
