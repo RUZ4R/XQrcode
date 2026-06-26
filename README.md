@@ -48,7 +48,7 @@ A ferramenta possui uma interface gráfica intuitiva e permite gerar QR Codes:
 
 <div align="center">
 
-<img src="screenshot.png" width="750">
+<img src="qrcode.png" width="750">
 
 </div>
 
@@ -79,7 +79,7 @@ git clone https://github.com/RUZ4R/XQrcode.git
 Entre na pasta:
 
 ```bash
-cd XQrcode<img width="699" height="312" alt="qrcode" src="https://github.com/user-attachments/assets/83278053-3b71-43a8-a037-b7a7983ba520" />
+cd XQrcode
 
 ```
 
