@@ -6,7 +6,7 @@
 <strong>Gere QR Codes diretamente no seu computador, sem depender da internet.</strong>
 </p>
 
-<img src="qrcode.png" width="700" alt="Interface do Gerador de QRCode">
+<img src="assets/qrcode.png" width="700" alt="Interface do Gerador de QRCode">
 
 <br><br>
 
@@ -48,7 +48,7 @@ A ferramenta possui uma interface gráfica intuitiva e permite gerar QR Codes:
 
 <div align="center">
 
-<img src="qrcode.png" width="750">
+<img src="assets/qrcode.png" width="750">
 
 </div>
 
