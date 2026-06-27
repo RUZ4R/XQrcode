@@ -68,42 +68,40 @@ GeradorQRCode/
 
 ---
 
-# 🚀 Instalação
+# 🚀 Instalação (Windows)
 
-## 1️⃣ Clone o repositório
+## 1️⃣ Baixe o programa
 
-```bash
-git clone https://github.com/RUZ4R/XQrcode.git
-```
-
-Entre na pasta:
-
-```bash
-cd XQrcode
-
-```
+Acesse a página de **Releases** do projeto e baixe a versão mais recente do **GeradorQRCode.exe**.
 
 ---
 
-## 2️⃣ Instale as dependências
+## 2️⃣ Extraia os arquivos
 
-```bash
-pip install -r requirements.txt
-```
+Se o download estiver em formato **.rar**, extraia todo o conteúdo para uma pasta de sua preferência.
+
+> **Importante:** Não mova apenas o arquivo `.exe`. Mantenha todos os arquivos extraídos na mesma pasta para garantir o funcionamento correto da aplicação.
 
 ---
 
 ## 3️⃣ Execute o programa
 
-```bash
-python main.py
-```
+Dê um duplo clique em **GeradorQRCode.exe**.
+
+Se o Windows exibir um aviso de segurança:
+
+- Clique em **Mais informações**.
+- Em seguida, clique em **Executar assim mesmo**.
 
 Pronto!
 
-A aplicação será aberta em poucos segundos.
+O Gerador de QRCode será aberto e estará pronto para uso.
 
 ---
+
+## 💡 Observação
+
+Caso o Windows Defender ou outro antivírus apresente um alerta, isso pode acontecer porque o programa não possui assinatura digital. Se o arquivo foi baixado diretamente deste repositório, basta permitir a execução.
 
 # 📝 Como utilizar
 
